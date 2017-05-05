@@ -1,5 +1,3 @@
-# Jonas Koenemann
-
 ## Legal notice
 
 Please see license information in the LICENSE file.
