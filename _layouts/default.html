@@ -14,7 +14,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <!-- <h1>{{ site.title | default: site.github.repository_name }}</h1> -->
+        <h1>Jonas Koenemann</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -22,7 +23,7 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+          <p class="view"><a href="{{ site.github.owner_url }}/JonasKoenemann">View the Project on GitHub</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
