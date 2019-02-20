@@ -3,8 +3,7 @@
 Please see license information in the LICENSE file.
 Please contact Jonas.Koenemann@yahoo.de for more information.
 
-Dynamic Optimization toolbox
-Copyright (C) 2016-2017  Jonas Koenemann
+Copyright (C) 2016-2019  Jonas Koenemann
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -25,5 +24,4 @@ This project has received funding from the European Union’s Horizon 2020 resea
 Use without warranty.
 
 Jonas Koenemann
-University of Freiburg, Ampyx Power
-Jonas.Koenemann@imtek.de
+Jonas.Koenemann@yahoo.de
